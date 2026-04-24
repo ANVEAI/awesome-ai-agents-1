@@ -343,6 +343,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.anthropic.com/">website</a> | <a href="https://docs.anthropic.com/claude/">docs</a></p>
 </div>
 
+### AnveVoice
+<div><a href="https://anvevoice.app"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
+
+<p>🗣️ Voice Agents</p>
+
+<p>AnveVoice is a Voice AI agent for websites with agentic DOM actions — navigates pages, fills forms, clicks buttons autonomously. Supports 50+ languages with less than 700ms latency and one-line embed. Free tier available</p>
+
+<p><a href="https://anvevoice.app">website</a></p>
+</div>
+
 ### AnyBiz
 <div><a href="https://anybiz.io"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
